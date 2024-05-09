@@ -1,0 +1,7 @@
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\bin\Debug\Programa2.exe.config
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\bin\Debug\Programa2.exe
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\bin\Debug\Programa2.pdb
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\obj\Debug\Programa2.csproj.AssemblyReference.cache
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\obj\Debug\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\obj\Debug\Programa2.exe
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Programa2\Programa2\obj\Debug\Programa2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\bin\Debug\Pograma3.exe.config
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\bin\Debug\Pograma3.exe
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\bin\Debug\Pograma3.pdb
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\obj\Debug\Pograma3.csproj.AssemblyReference.cache
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\obj\Debug\Pograma3.csproj.CoreCompileInputs.cache
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\obj\Debug\Pograma3.exe
+C:\Users\ana_m\OneDrive\Documentos\Modulo III\Pograma3\Pograma3\obj\Debug\Pograma3.pdb
